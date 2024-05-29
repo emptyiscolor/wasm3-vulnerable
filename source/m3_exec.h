@@ -653,7 +653,7 @@ d_m3Op  (CallRawFunction)
 }
 
 
-d_m3Op  (MemSize)
+d_m3Op  (MemCurrent)
 {
     IM3Memory memory            = m3MemInfo (_mem);
 
